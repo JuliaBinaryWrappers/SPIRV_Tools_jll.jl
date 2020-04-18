@@ -1,0 +1,252 @@
+[[SPIRV_Tools]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "92402d91337d306829b8fed369fec041717a1472"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "381b2be6b034f8314bdb3aa36751403366cb6de5b7e9598f1857290c3b6b2058"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.aarch64-linux-musl-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "16d1a9e1f998755d27e78dbfd0ad28b737d910ae"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "99bfbb219316ff389e630d939b7f130cbfcdca553bc5fd6b1bfc979b9ae123b5"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.aarch64-linux-musl-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7c428ae3a6df32b4fcf275f21f078bcdd7a549d5"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "f629f916bfcbe2e82c31cab6474188ab8d282bba038d3571fca7defbceae03e6"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6029d097d91a5fb23c37aa92a6401b57b2a90a2e"
+os = "windows"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "4478076436718b4ee0bded22ca7f5e0799e6dba73217ab2b1113cd4451193c83"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c04a3ec660a823ba7300df04048cd1b76cc3c83"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "cef10d8b1b7a94f1d0438f54dcf5780ec99b0359277623a3304488e22600f2ca"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.i686-linux-musl-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a5b0d9f792af7eabbef038d44898779253f16e25"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "d5cb5584b2b036bebabbcd992b6c3c0f08ea49f4cccea8dc70023f1aea674b99"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.x86_64-linux-musl-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2d92a7c2eb4b30a37b4850a41ed80305e98970ac"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "0615a3ef1fde0aefda93ce05e1a47e9267eac974ae425832959973d61624535b"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d1118ff00018a981d7f3bda672adbbd53f787184"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "0a945d218773fd5a0a2584131f89629215647abfdcf6123d2ef794f753a24804"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.i686-linux-gnu-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "83b210d9b51639d03c2568b71fb5e3078ecaa35a"
+os = "macos"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "62f066a5d46b6cd90f9118c47f1b5d83c5b4d9c60b5021a6e8d2bb52c9835273"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.x86_64-apple-darwin14-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fdd0d28fee08c075bd780e7354e18520e94d2bbf"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "9fdc8f7bd2eb1af826cdbe8d3144cb5f9a755f1285dcac196a9b4fd64d4dff1a"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.i686-linux-gnu-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ee6a9f8c4fb9ddeb16bf217995fa7135e301a513"
+os = "windows"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "b1c667885ec04f07bd5547f2753a77cf2e1105bdf865994ec9a660834ca91f91"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d65612c68af90f5a9ef1fee1e8d4635709b1bb5"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "9dd211cfa09a39f348c234373067f5a743d4d930e0a8d85737639c2d68b5d31a"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "81f2cf6e08065c4cf3fbd97a7e95a6351f551283"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "7d5b447a94461a5a33bb1b672638f40ca24cd577ad272ca69b5bf49a33f02513"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "55fd133a7aa49413095ad15745db71a13850d60a"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "66b67a3451e6b041afd47bc0adcf07f9d3731eb2c1c6aff4211910f2ff16c7b1"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b72576e9dceb2e2a293b375b8e98a97df8741267"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "d0415dbf45733c71212455019cb9f23e62ccf2a25972b4914aedf43fe737f86e"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.x86_64-linux-musl-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5aad3d13d6e75acd09c8ec3089163c3275bd5458"
+os = "macos"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "8e2931812fdb88c5ffe887fc88854b39712af665745185c1377df2098c604820"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.x86_64-apple-darwin14-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "620e043dd365494d87e33b0c249a42ac9ec9e759"
+os = "freebsd"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "e6856577d45fe86000c1f3dc466613a682973a6f373cf2dd8d0618e97da2b7bf"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cca139e15ae0b0cc61d6b7c2dd7499c001bba6bb"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "f8d740171bb4272b813d53c1c3f751a825f481d2f4bf6e206cb65010749faf19"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "16feadbc22ccac6285362e762f03c97dea889d55"
+os = "windows"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "8045d68103bf8a784736377ce55488cd45aaa56139307f8ce1000bbaa39b7eb3"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.i686-w64-mingw32-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54c07df213f3e7765e8f9147a860038c8fa8fe4d"
+os = "windows"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "600a1c36c6bb9f36a7c25268dc1f7c5923f5d44740079244566555ac27b26136"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.i686-w64-mingw32-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "151a000221b3c07f50fdea60580e274066f3cb31"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "df8897576af394de048d8dfe800954a67925c648514b5212f1f429829215519d"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "653d564b8342d6b1449c584734176b789a699013"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "db466e73fff09673f2dcbb982ed5cd9b22c0e8fce25ab52316e9a7d2001b2597"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ae48653085a85e297aff4e435feeb27ad847edf4"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "1eb5208e76c370ca70aaa88ed97831fa8a8e15f33ddf94f7c822d9e2471b5d2a"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[SPIRV_Tools]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "91b9d8eeeb3bc49bca519453701bb83801d9f040"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "6b56435259f9b55aa0e96c3324273112b880a764806a81f994ca022c7fc7803e"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b5fb75f6e4666e1427b6b14607e68213e0cc14aa"
+os = "freebsd"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "1bfb5ba8fecca16043083cd900b776eda30504a69ba9f75ecb9cf63066856d44"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[SPIRV_Tools]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6f9615792a0a7c02632f291b9478f62fac7d7ddf"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Tools.download]]
+    sha256 = "02f2949a561f446c66c98d371241fe83e9b9e3cf46f7ade83448cbaf135e7a9e"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Tools_jll.jl/releases/download/SPIRV_Tools-v2020.2.0+0/SPIRV_Tools.v2020.2.0.i686-linux-musl-cxx03.tar.gz"
