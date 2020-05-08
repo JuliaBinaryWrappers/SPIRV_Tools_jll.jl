@@ -1,6 +1,6 @@
 name = "SPIRV_Tools_jll"
 uuid = "6ac6d60f-d740-5983-97d7-a4482c0689f4"
-version = "2020.2.0+0"
+version = "2020.2.0+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
