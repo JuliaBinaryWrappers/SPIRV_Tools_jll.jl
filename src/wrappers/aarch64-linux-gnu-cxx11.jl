@@ -2,7 +2,7 @@
 export libSPIRV_Tools, spirv_as, spirv_cfg, spirv_dis, spirv_link, spirv_lint, spirv_objdump, spirv_opt, spirv_reduce, spirv_val
 
 JLLWrappers.@generate_wrapper_header("SPIRV_Tools")
-JLLWrappers.@declare_library_product(libSPIRV_Tools, "libSPIRV-Tools-shared.so")
+JLLWrappers.@declare_library_product(libSPIRV_Tools, "libSPIRV-Tools.so")
 JLLWrappers.@declare_executable_product(spirv_as)
 JLLWrappers.@declare_executable_product(spirv_cfg)
 JLLWrappers.@declare_executable_product(spirv_dis)
@@ -16,7 +16,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libSPIRV_Tools,
-        "lib/libSPIRV-Tools-shared.so",
+        "lib/libSPIRV-Tools.so",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
